@@ -1,0 +1,932 @@
+customer_id,segment,region,country
+CUST20031,Corporate,North West,South Africa
+CUST20034,Retail,Free State,South Africa
+CUST20063,Retail,Gauteng,South Africa
+CUST20025,Retail,Gauteng,South Africa
+CUST20065,Corporate,Eastern Cape,South Africa
+CUST20120,Retail,Free State,South Africa
+CUST20150,Retail,Eastern Cape,South Africa
+CUST20233,Sme,Western Cape,South Africa
+CUST20219,Retail,KwaZulu-Natal,South Africa
+CUST20070,Retail,North West,South Africa
+CUST20045,Corporate,Free State,South Africa
+CUST20136,Retail,Western Cape,South Africa
+CUST20058,Corporate,Gauteng,South Africa
+CUST20140,Retail,North West,South Africa
+CUST20249,Retail,Gauteng,South Africa
+CUST20015,Retail,Free State,South Africa
+CUST20044,Retail,Free State,South Africa
+CUST20252,Retail,KwaZulu-Natal,South Africa
+CUST20249,Retail,Free State,South Africa
+CUST20101,Retail,KwaZulu-Natal,South Africa
+CUST20265,Corporate,Gauteng,South Africa
+CUST20131,Sme,Western Cape,South Africa
+CUST20213,Retail,Gauteng,South Africa
+CUST20004,Retail,Free State,South Africa
+CUST20297,Retail,Limpopo,South Africa
+CUST20254,Sme,KwaZulu-Natal,South Africa
+CUST20230,Corporate,Eastern Cape,South Africa
+ANONYMOUS,Retail,Western Cape,South Africa
+CUST20289,Corporate,Free State,South Africa
+CUST20168,Retail,Eastern Cape,South Africa
+CUST20050,Retail,Western Cape,South Africa
+CUST20096,Retail,Eastern Cape,South Africa
+CUST20244,Sme,North West,South Africa
+CUST20091,Corporate,KwaZulu-Natal,South Africa
+CUST20076,Sme,Eastern Cape,South Africa
+CUST20298,Sme,Gauteng,South Africa
+CUST20209,Corporate,,South Africa
+CUST20103,Retail,KwaZulu-Natal,South Africa
+CUST20158,Corporate,Limpopo,South Africa
+CUST20200,Corporate,North West,South Africa
+CUST20275,Corporate,North West,South Africa
+CUST20034,Sme,Free State,South Africa
+CUST20298,Sme,KwaZulu-Natal,South Africa
+CUST20181,Corporate,Eastern Cape,South Africa
+CUST20105,Retail,KwaZulu-Natal,South Africa
+CUST20186,Retail,Gauteng,South Africa
+CUST20060,Retail,,South Africa
+CUST20287,Retail,Limpopo,South Africa
+CUST20281,Retail,Eastern Cape,South Africa
+CUST20145,Retail,Eastern Cape,South Africa
+CUST20021,Corporate,Eastern Cape,South Africa
+CUST20059,Retail,Gauteng,South Africa
+CUST20029,Sme,Free State,South Africa
+CUST20032,Retail,Eastern Cape,South Africa
+CUST20033,Sme,Limpopo,South Africa
+CUST20149,Retail,Free State,South Africa
+CUST20054,Retail,Gauteng,South Africa
+CUST20023,Retail,KwaZulu-Natal,South Africa
+CUST20030,Sme,Free State,South Africa
+CUST20046,Retail,Eastern Cape,South Africa
+CUST20133,Retail,Free State,South Africa
+CUST20010,Corporate,Gauteng,South Africa
+CUST20088,Retail,Western Cape,South Africa
+CUST20244,Sme,Eastern Cape,South Africa
+CUST20014,Retail,Limpopo,South Africa
+CUST20199,Retail,Gauteng,South Africa
+CUST20291,Retail,Gauteng,South Africa
+CUST20235,Sme,Gauteng,South Africa
+CUST20107,Retail,Limpopo,South Africa
+CUST20218,Sme,KwaZulu-Natal,South Africa
+CUST20124,Retail,Eastern Cape,South Africa
+CUST20174,Retail,North West,South Africa
+CUST20251,Retail,Western Cape,South Africa
+CUST20222,Retail,Gauteng,South Africa
+CUST20294,Retail,Eastern Cape,South Africa
+CUST20042,Corporate,Eastern Cape,South Africa
+CUST20039,Sme,KwaZulu-Natal,South Africa
+CUST20254,Sme,Western Cape,South Africa
+CUST20192,Corporate,KwaZulu-Natal,South Africa
+ANONYMOUS,Retail,Free State,South Africa
+CUST20280,Corporate,Gauteng,South Africa
+CUST20067,Corporate,KwaZulu-Natal,South Africa
+CUST20178,Retail,Gauteng,South Africa
+CUST20142,Corporate,Gauteng,South Africa
+CUST20283,Retail,KwaZulu-Natal,South Africa
+CUST20299,Retail,Gauteng,South Africa
+CUST20218,Retail,North West,South Africa
+CUST20032,Retail,Gauteng,South Africa
+CUST20020,Retail,North West,South Africa
+CUST20073,Retail,KwaZulu-Natal,South Africa
+CUST20034,Retail,Gauteng,South Africa
+CUST20269,Retail,North West,South Africa
+CUST20024,Retail,KwaZulu-Natal,South Africa
+CUST20184,Retail,Limpopo,South Africa
+ANONYMOUS,Retail,Limpopo,South Africa
+CUST20088,Retail,Gauteng,South Africa
+CUST20063,Retail,Limpopo,South Africa
+CUST20236,Retail,North West,South Africa
+CUST20278,Sme,Western Cape,South Africa
+CUST20215,Retail,KwaZulu-Natal,South Africa
+CUST20154,Retail,Free State,South Africa
+CUST20259,Sme,Gauteng,South Africa
+CUST20081,Retail,Western Cape,South Africa
+CUST20080,Retail,Gauteng,South Africa
+CUST20293,Retail,Western Cape,South Africa
+CUST20071,Sme,Free State,South Africa
+CUST20162,Retail,North West,South Africa
+CUST20146,Sme,Western Cape,South Africa
+CUST20079,Retail,Free State,South Africa
+CUST20157,Retail,Free State,South Africa
+CUST20097,Sme,Gauteng,South Africa
+CUST20012,Retail,Gauteng,South Africa
+CUST20086,Retail,Free State,South Africa
+CUST20296,Sme,Limpopo,South Africa
+CUST20098,Corporate,North West,South Africa
+CUST20053,Corporate,KwaZulu-Natal,South Africa
+CUST20220,Sme,Free State,South Africa
+CUST20136,Retail,North West,South Africa
+CUST20277,Sme,Western Cape,South Africa
+CUST20285,Corporate,Eastern Cape,South Africa
+CUST20130,Retail,Gauteng,South Africa
+CUST20164,Retail,Gauteng,South Africa
+CUST20022,Retail,Gauteng,South Africa
+CUST20168,Corporate,North West,South Africa
+CUST20206,Sme,Eastern Cape,South Africa
+CUST20151,Retail,KwaZulu-Natal,South Africa
+CUST20139,Retail,Western Cape,South Africa
+CUST20087,Sme,Gauteng,South Africa
+CUST20068,Retail,Gauteng,South Africa
+CUST20259,Retail,Eastern Cape,South Africa
+CUST20012,Retail,KwaZulu-Natal,South Africa
+CUST20255,Sme,North West,South Africa
+CUST20235,Sme,Free State,South Africa
+CUST20055,Sme,Limpopo,South Africa
+CUST20120,Retail,Western Cape,South Africa
+CUST20232,Retail,KwaZulu-Natal,South Africa
+CUST20025,Sme,North West,South Africa
+ANONYMOUS,Corporate,KwaZulu-Natal,South Africa
+CUST20044,Sme,Gauteng,South Africa
+CUST20276,Corporate,Western Cape,South Africa
+CUST20098,Retail,KwaZulu-Natal,South Africa
+CUST20286,Retail,Western Cape,South Africa
+CUST20061,Corporate,Western Cape,South Africa
+CUST20019,Sme,KwaZulu-Natal,South Africa
+CUST20198,Retail,Western Cape,South Africa
+CUST20247,Retail,Western Cape,South Africa
+CUST20186,Sme,Limpopo,South Africa
+CUST20063,Corporate,Eastern Cape,South Africa
+CUST20095,Sme,Limpopo,South Africa
+CUST20160,Retail,KwaZulu-Natal,South Africa
+CUST20237,Retail,Gauteng,South Africa
+CUST20277,Retail,KwaZulu-Natal,South Africa
+CUST20051,Retail,Eastern Cape,South Africa
+CUST20018,Retail,North West,South Africa
+CUST20043,Corporate,,South Africa
+CUST20027,Retail,Limpopo,South Africa
+CUST20060,Sme,Gauteng,South Africa
+CUST20088,Corporate,KwaZulu-Natal,South Africa
+CUST20178,Sme,Western Cape,South Africa
+CUST20003,Retail,Limpopo,South Africa
+CUST20150,Retail,KwaZulu-Natal,South Africa
+CUST20225,Retail,Limpopo,South Africa
+CUST20077,Retail,KwaZulu-Natal,South Africa
+CUST20046,Sme,Eastern Cape,South Africa
+CUST20036,Retail,North West,South Africa
+CUST20090,Retail,Gauteng,South Africa
+CUST20196,Retail,Western Cape,South Africa
+CUST20248,Retail,Limpopo,South Africa
+CUST20123,Retail,Gauteng,South Africa
+CUST20241,Retail,Eastern Cape,South Africa
+CUST20110,Corporate,Free State,South Africa
+CUST20231,Retail,Limpopo,South Africa
+CUST20193,Retail,KwaZulu-Natal,South Africa
+CUST20282,Retail,Gauteng,South Africa
+CUST20260,Sme,Free State,South Africa
+CUST20179,Retail,Gauteng,South Africa
+CUST20148,Sme,Gauteng,South Africa
+CUST20177,Sme,KwaZulu-Natal,South Africa
+CUST20132,Sme,Western Cape,South Africa
+CUST20190,Sme,Western Cape,South Africa
+CUST20140,Retail,Western Cape,South Africa
+CUST20228,Sme,Western Cape,South Africa
+CUST20136,Retail,Gauteng,South Africa
+CUST20137,Sme,Limpopo,South Africa
+CUST20052,Retail,North West,South Africa
+CUST20071,Retail,North West,South Africa
+CUST20048,Retail,Eastern Cape,South Africa
+CUST20158,Sme,North West,South Africa
+CUST20247,Corporate,,South Africa
+CUST20028,Sme,,South Africa
+CUST20023,Retail,North West,South Africa
+CUST20165,Retail,Western Cape,South Africa
+CUST20208,Retail,Limpopo,South Africa
+CUST20106,Retail,Western Cape,South Africa
+CUST20067,Corporate,Western Cape,South Africa
+CUST20210,Sme,KwaZulu-Natal,South Africa
+CUST20282,Retail,Limpopo,South Africa
+CUST20078,Sme,Limpopo,South Africa
+CUST20029,Sme,Gauteng,South Africa
+CUST20272,Sme,KwaZulu-Natal,South Africa
+CUST20009,Retail,KwaZulu-Natal,South Africa
+CUST20227,Retail,Gauteng,South Africa
+CUST20050,Retail,Gauteng,South Africa
+CUST20292,Retail,Limpopo,South Africa
+CUST20165,Retail,North West,South Africa
+ANONYMOUS,Retail,Gauteng ,South Africa
+CUST20242,Retail,KwaZulu-Natal,South Africa
+CUST20167,Corporate,Limpopo,South Africa
+CUST20065,Retail,North West,South Africa
+ANONYMOUS,Retail,KwaZulu-Natal,South Africa
+CUST20237,Sme,Eastern Cape,South Africa
+CUST20085,Corporate,Western Cape,South Africa
+CUST20028,Retail,Western Cape,South Africa
+CUST20211,Retail,Free State,South Africa
+ANONYMOUS,Sme,Gauteng,South Africa
+CUST20017,Retail,Gauteng,South Africa
+CUST20295,Retail,North West,South Africa
+CUST20221,Sme,Limpopo,South Africa
+CUST20261,Retail,Free State,South Africa
+CUST20010,Retail,KwaZulu-Natal,South Africa
+CUST20010,Corporate,Eastern Cape,South Africa
+ANONYMOUS,Retail,,South Africa
+CUST20049,Retail,Limpopo,South Africa
+CUST20151,Sme,Free State,South Africa
+CUST20002,Retail,Gauteng ,South Africa
+CUST20111,Corporate,KwaZulu-Natal,South Africa
+CUST20055,Retail,Eastern Cape,South Africa
+CUST20014,Sme,Free State,South Africa
+CUST20242,Retail,Western Cape,South Africa
+CUST20173,Retail,KwaZulu-Natal,South Africa
+CUST20018,Sme,Western Cape,South Africa
+CUST20113,Retail,Free State,South Africa
+CUST20283,Corporate,Limpopo,South Africa
+CUST20033,Retail,North West,South Africa
+CUST20031,Retail,North West,South Africa
+CUST20231,Corporate,Western Cape,South Africa
+CUST20156,Sme,Western Cape,South Africa
+CUST20192,Retail,Free State,South Africa
+CUST20280,Retail,Free State,South Africa
+CUST20003,Retail,KwaZulu-Natal,South Africa
+CUST20204,Retail,Western Cape,South Africa
+CUST20194,Retail,KwaZulu-Natal,South Africa
+CUST20281,Corporate,Eastern Cape,South Africa
+CUST20181,Corporate,Western Cape,South Africa
+CUST20109,Sme,Eastern Cape,South Africa
+CUST20290,Sme,Eastern Cape,South Africa
+CUST20077,Retail,Limpopo,South Africa
+CUST20084,Sme,KwaZulu-Natal,South Africa
+CUST20059,Retail,North West,South Africa
+CUST20082,Retail,North West,South Africa
+CUST20256,Corporate,North West,South Africa
+CUST20052,Retail,Limpopo,South Africa
+CUST20070,Sme,Western Cape,South Africa
+CUST20104,Retail,Gauteng,South Africa
+CUST20225,Sme,North West,South Africa
+CUST20009,Sme,Free State,South Africa
+CUST20222,Retail,North West,South Africa
+CUST20281,Sme,Free State,South Africa
+ANONYMOUS,Sme,North West,South Africa
+CUST20108,Sme,Free State,South Africa
+CUST20070,Sme,Eastern Cape,South Africa
+CUST20097,Retail,North West,South Africa
+CUST20005,Sme,,South Africa
+CUST20062,Retail,Free State,South Africa
+CUST20298,Retail,KwaZulu-Natal,South Africa
+CUST20266,Retail,North West,South Africa
+CUST20125,Retail,Free State,South Africa
+CUST20006,Retail,North West,South Africa
+CUST20026,Retail,Gauteng,South Africa
+CUST20197,Retail,Eastern Cape,South Africa
+ANONYMOUS,Sme,Eastern Cape,South Africa
+CUST20183,Sme,KwaZulu-Natal,South Africa
+CUST20250,Retail,Free State,South Africa
+CUST20051,Retail,KwaZulu-Natal,South Africa
+CUST20009,Sme,Limpopo,South Africa
+CUST20196,Corporate,Gauteng,South Africa
+CUST20011,Retail,Eastern Cape,South Africa
+CUST20081,Retail,Eastern Cape,South Africa
+CUST20082,Retail,Free State,South Africa
+CUST20183,Retail,Gauteng,South Africa
+CUST20080,Sme,North West,South Africa
+CUST20239,Corporate,Gauteng,South Africa
+CUST20003,Retail,E. Cape,South Africa
+CUST20211,Sme,Western Cape,South Africa
+CUST20006,Retail,Free State,South Africa
+CUST20230,Sme,Eastern Cape,South Africa
+CUST20184,Retail,North West,South Africa
+CUST20227,Retail,Free State,South Africa
+CUST20266,Sme,,South Africa
+CUST20044,Sme,Limpopo,South Africa
+CUST20206,Retail,Free State,South Africa
+CUST20128,Retail,,South Africa
+CUST20241,Retail,Limpopo,South Africa
+CUST20068,Sme,North West,South Africa
+CUST20086,Retail,Gauteng,South Africa
+CUST20052,Retail,Eastern Cape,South Africa
+CUST20007,Sme,KwaZulu-Natal,South Africa
+CUST20155,Retail,Eastern Cape,South Africa
+CUST20247,Retail,North West,South Africa
+CUST20245,Sme,Western Cape,South Africa
+CUST20002,Retail,KwaZulu-Natal,South Africa
+CUST20180,Retail,Western Cape,South Africa
+CUST20187,Sme,Free State,South Africa
+CUST20272,Retail,Eastern Cape,South Africa
+CUST20287,Sme,North West,South Africa
+CUST20284,Retail,Gauteng,South Africa
+CUST20044,Corporate,KwaZulu-Natal,South Africa
+CUST20209,Retail,Limpopo,South Africa
+CUST20122,Retail,KwaZulu-Natal,South Africa
+CUST20236,Sme,Western Cape,South Africa
+CUST20289,Retail,Free State,South Africa
+CUST20116,Sme,Gauteng,South Africa
+CUST20035,Retail,Gauteng,South Africa
+CUST20234,Retail,Free State,South Africa
+CUST20228,Retail,Limpopo,South Africa
+CUST20057,Retail,Free State,South Africa
+CUST20137,Corporate,Free State,South Africa
+CUST20212,Retail,KwaZulu-Natal,South Africa
+CUST20002,Retail,Limpopo,South Africa
+CUST20229,Retail,Gauteng,South Africa
+CUST20031,Sme,Limpopo,South Africa
+CUST20198,Sme,Free State,South Africa
+CUST20291,Sme,KwaZulu-Natal,South Africa
+CUST20042,Corporate,Western Cape,South Africa
+CUST20133,Retail,North West,South Africa
+CUST20210,Sme,Western Cape,South Africa
+CUST20011,Retail,KwaZulu-Natal,South Africa
+CUST20265,Retail,Limpopo,South Africa
+CUST20147,Retail,Western Cape,South Africa
+CUST20000,Corporate,Gauteng,South Africa
+CUST20016,Sme,KwaZulu-Natal,South Africa
+CUST20115,Retail,Limpopo,South Africa
+CUST20235,Retail,Free State,South Africa
+CUST20021,Retail,Limpopo,South Africa
+CUST20238,Corporate,Western Cape,South Africa
+CUST20226,Sme,Western Cape,South Africa
+CUST20105,Retail,North West,South Africa
+CUST20172,Retail,Limpopo,South Africa
+CUST20125,Retail,Eastern Cape,South Africa
+CUST20057,Sme,Free State,South Africa
+CUST20201,Sme,North West,South Africa
+CUST20258,Retail,Limpopo,South Africa
+CUST20013,Corporate,Gauteng,South Africa
+CUST20090,Sme,Free State,South Africa
+CUST20049,Retail,Western Cape,South Africa
+CUST20181,Retail,Limpopo,South Africa
+CUST20274,Retail,Western Cape,South Africa
+CUST20005,Sme,Free State,South Africa
+CUST20069,Retail,KwaZulu-Natal,South Africa
+CUST20291,Corporate,Gauteng,South Africa
+CUST20131,Corporate,Eastern Cape,South Africa
+CUST20000,Retail,Limpopo,South Africa
+CUST20130,Corporate,Free State,South Africa
+CUST20026,Sme,Limpopo,South Africa
+CUST20144,Retail,Free State,South Africa
+CUST20129,Sme,Western Cape,South Africa
+CUST20288,Corporate,Gauteng,South Africa
+CUST20066,Retail,Eastern Cape,South Africa
+CUST20135,Sme,North West,South Africa
+CUST20028,Retail,KwaZulu-Natal,South Africa
+CUST20268,Retail,North West,South Africa
+CUST20193,Retail,Gauteng,South Africa
+CUST20094,Retail,Free State,South Africa
+CUST20208,Retail,Eastern Cape,South Africa
+CUST20169,Retail,Gauteng,South Africa
+CUST20195,Retail,Western Cape,South Africa
+CUST20173,Corporate,Gauteng,South Africa
+CUST20006,Retail,,South Africa
+CUST20049,Retail,Gauteng,South Africa
+CUST20185,Retail,,South Africa
+CUST20073,Retail,Limpopo,South Africa
+CUST20170,Retail,,South Africa
+CUST20120,Sme,Limpopo,South Africa
+CUST20238,Retail,Eastern Cape,South Africa
+CUST20145,Sme,North West,South Africa
+CUST20201,Retail,Limpopo,South Africa
+CUST20234,Corporate,Free State,South Africa
+CUST20220,Retail,Gauteng,South Africa
+CUST20182,Sme,Free State,South Africa
+CUST20207,Corporate,KwaZulu-Natal,South Africa
+CUST20132,Retail,KwaZulu-Natal,South Africa
+CUST20024,Retail,Gauteng,South Africa
+CUST20214,Retail,Limpopo,South Africa
+CUST20185,Sme,North West,South Africa
+CUST20041,Retail,Western Cape,South Africa
+CUST20018,Sme,Eastern Cape,South Africa
+CUST20108,Retail,Limpopo,South Africa
+CUST20296,Retail,Western Cape,South Africa
+CUST20056,Retail,Limpopo,South Africa
+CUST20111,Retail,Western Cape,South Africa
+CUST20148,Retail,Free State,South Africa
+CUST20275,Retail,KwaZulu-Natal,South Africa
+CUST20270,Retail,Limpopo,South Africa
+CUST20123,Sme,Western Cape,South Africa
+CUST20234,Retail,Gauteng,South Africa
+CUST20026,Retail,Limpopo,South Africa
+CUST20036,Retail,Free State,South Africa
+CUST20038,Retail,Eastern Cape,South Africa
+CUST20051,Sme,KwaZulu-Natal,South Africa
+CUST20083,Retail,Gauteng,South Africa
+CUST20060,Retail,Eastern Cape,South Africa
+CUST20030,Retail,Eastern Cape,South Africa
+CUST20141,Sme,Eastern Cape,South Africa
+CUST20264,Retail,Western Cape,South Africa
+CUST20243,Sme,Free State,South Africa
+CUST20001,Sme,Gauteng,South Africa
+CUST20233,Retail,North West,South Africa
+CUST20062,Sme,Eastern Cape,South Africa
+CUST20223,Retail,Limpopo,South Africa
+CUST20153,Retail,Gauteng,South Africa
+CUST20018,Retail,KwaZulu-Natal,South Africa
+CUST20002,Retail,North West,South Africa
+CUST20190,Retail,Western Cape,South Africa
+CUST20280,Retail,Limpopo,South Africa
+CUST20139,Retail,Eastern Cape,South Africa
+CUST20067,Sme,North West,South Africa
+CUST20083,Retail,Limpopo,South Africa
+CUST20061,Retail,Gauteng,South Africa
+CUST20067,Sme,Limpopo,South Africa
+CUST20272,Retail,E. Cape,South Africa
+CUST20285,Retail,Western Cape,South Africa
+CUST20054,Retail,Eastern Cape,South Africa
+CUST20278,Corporate,Limpopo,South Africa
+CUST20012,Sme,North West,South Africa
+CUST20182,Sme,Gauteng ,South Africa
+CUST20068,Retail,Eastern Cape,South Africa
+CUST20199,Retail,KwaZulu-Natal,South Africa
+CUST20059,Corporate,North West,South Africa
+CUST20223,Retail,North West,South Africa
+CUST20064,Sme,KwaZulu-Natal,South Africa
+CUST20107,Retail,,South Africa
+CUST20117,Sme,Gauteng,South Africa
+CUST20251,Retail,Gauteng,South Africa
+CUST20290,Corporate,Western Cape,South Africa
+CUST20016,Corporate,North West,South Africa
+CUST20176,Corporate,Free State,South Africa
+CUST20073,Retail,Eastern Cape,South Africa
+CUST20035,Sme,North West,South Africa
+CUST20156,Sme,KwaZulu-Natal,South Africa
+CUST20226,Sme,North West,South Africa
+CUST20093,Retail,Free State,South Africa
+CUST20163,Sme,Western Cape,South Africa
+CUST20246,Retail,Gauteng,South Africa
+CUST20077,Retail,Free State,South Africa
+CUST20075,Retail,Gauteng,South Africa
+ANONYMOUS,Retail,Eastern Cape,South Africa
+CUST20074,Retail,KwaZulu-Natal,South Africa
+CUST20113,Retail,,South Africa
+CUST20276,Retail,Free State,South Africa
+CUST20090,Sme,Eastern Cape,South Africa
+CUST20104,Retail,North West,South Africa
+CUST20114,Sme,Free State,South Africa
+CUST20117,Sme,Free State,South Africa
+CUST20056,Sme,Free State,South Africa
+CUST20157,Retail,North West,South Africa
+CUST20109,Sme,Gauteng,South Africa
+CUST20092,Retail,KwaZulu-Natal,South Africa
+CUST20270,Retail,KwaZulu-Natal,South Africa
+CUST20089,Sme,Gauteng,South Africa
+CUST20031,Retail,KwaZulu-Natal,South Africa
+CUST20043,Retail,Limpopo,South Africa
+CUST20013,Sme,North West,South Africa
+CUST20001,Retail,,South Africa
+CUST20085,Retail,Free State,South Africa
+CUST20094,Retail,Gauteng,South Africa
+CUST20011,Retail,Free State,South Africa
+CUST20096,Sme,Limpopo,South Africa
+CUST20239,Retail,Limpopo,South Africa
+CUST20043,Retail,Eastern Cape,South Africa
+CUST20042,Retail,North West,South Africa
+CUST20029,Corporate,Limpopo,South Africa
+CUST20167,Retail,Free State,South Africa
+CUST20056,Sme,North West,South Africa
+CUST20286,Sme,Limpopo,South Africa
+CUST20005,Retail,Free State,South Africa
+CUST20100,Sme,Free State,South Africa
+CUST20126,Retail,Gauteng,South Africa
+CUST20178,Corporate,North West,South Africa
+CUST20116,Sme,North West,South Africa
+CUST20055,Retail,Free State,South Africa
+CUST20292,Corporate,Eastern Cape,South Africa
+CUST20066,Retail,Free State,South Africa
+CUST20177,Retail,Western Cape,South Africa
+CUST20095,Retail,Western Cape,South Africa
+CUST20084,Retail,Gauteng,South Africa
+CUST20203,Retail,Eastern Cape,South Africa
+CUST20072,Retail,Western Cape,South Africa
+CUST20092,Sme,Free State,South Africa
+CUST20020,Sme,Eastern Cape,South Africa
+CUST20257,Retail,North West,South Africa
+CUST20035,Retail,KwaZulu-Natal,South Africa
+CUST20015,Sme,Western Cape,South Africa
+CUST20024,Sme,Free State,South Africa
+CUST20167,Retail,Gauteng,South Africa
+CUST20222,Retail,Eastern Cape,South Africa
+CUST20179,Retail,Eastern Cape,South Africa
+CUST20095,Retail,,South Africa
+CUST20221,Retail,Free State,South Africa
+CUST20022,Retail,KwaZulu-Natal,South Africa
+CUST20056,Corporate,Free State,South Africa
+CUST20273,Corporate,KwaZulu-Natal,South Africa
+CUST20027,Retail,Eastern Cape,South Africa
+CUST20040,Sme,Eastern Cape,South Africa
+CUST20131,Sme,Gauteng,South Africa
+CUST20257,Retail,Western Cape,South Africa
+CUST20243,Retail,Gauteng,South Africa
+CUST20203,Sme,Gauteng,South Africa
+CUST20038,Corporate,Eastern Cape,South Africa
+CUST20093,Sme,,South Africa
+CUST20040,Corporate,North West,South Africa
+CUST20068,Corporate,Limpopo,South Africa
+ANONYMOUS,Retail,Gauteng,South Africa
+CUST20284,Corporate,KwaZulu-Natal,South Africa
+CUST20214,Retail,Gauteng,South Africa
+CUST20134,Sme,Eastern Cape,South Africa
+CUST20153,Retail,Eastern Cape,South Africa
+CUST20075,Retail,Western Cape,South Africa
+CUST20139,Retail,KwaZulu-Natal,South Africa
+CUST20146,Sme,KwaZulu-Natal,South Africa
+CUST20188,Retail,Limpopo,South Africa
+CUST20271,Retail,North West,South Africa
+CUST20236,Retail,Limpopo,South Africa
+CUST20187,Retail,Gauteng,South Africa
+CUST20117,Retail,Eastern Cape,South Africa
+CUST20212,Corporate,Western Cape,South Africa
+CUST20259,Retail,North West,South Africa
+CUST20299,Sme,Western Cape,South Africa
+CUST20126,Retail,Eastern Cape,South Africa
+CUST20116,Retail,Limpopo,South Africa
+CUST20173,Retail,Gauteng,South Africa
+CUST20004,Sme,Eastern Cape,South Africa
+CUST20057,Retail,Limpopo,South Africa
+CUST20082,Retail,KZN,South Africa
+CUST20022,Retail,Western Cape,South Africa
+CUST20069,Corporate,Gauteng,South Africa
+CUST20268,Retail,Limpopo,South Africa
+CUST20046,Retail,Western Cape,South Africa
+CUST20195,Retail,Eastern Cape,South Africa
+CUST20244,Retail,Eastern Cape,South Africa
+CUST20145,Sme,Free State,South Africa
+CUST20263,Corporate,KwaZulu-Natal,South Africa
+CUST20143,Retail,KwaZulu-Natal,South Africa
+CUST20188,Retail,KwaZulu-Natal,South Africa
+CUST20041,Corporate,Western Cape,South Africa
+CUST20017,Corporate,Free State,South Africa
+CUST20078,Sme,North West,South Africa
+CUST20149,Retail,Limpopo,South Africa
+CUST20124,Retail,KwaZulu-Natal,South Africa
+CUST20207,Retail,Free State,South Africa
+CUST20232,Retail,Limpopo,South Africa
+CUST20050,Retail,North West,South Africa
+CUST20053,Corporate,Limpopo,South Africa
+CUST20037,Sme,Free State,South Africa
+CUST20142,Sme,Eastern Cape,South Africa
+CUST20170,Corporate,KwaZulu-Natal,South Africa
+CUST20099,Corporate,North West,South Africa
+CUST20033,Sme,KwaZulu-Natal,South Africa
+CUST20020,Retail,Eastern Cape,South Africa
+CUST20019,Retail,Gauteng,South Africa
+CUST20199,Sme,North West,South Africa
+CUST20053,Sme,Limpopo,South Africa
+CUST20107,Corporate,Gauteng,South Africa
+CUST20237,Corporate,Limpopo,South Africa
+CUST20028,Corporate,Eastern Cape,South Africa
+CUST20038,Sme,KwaZulu-Natal,South Africa
+CUST20175,Sme,Free State,South Africa
+CUST20245,Retail,Limpopo,South Africa
+CUST20284,Retail,Free State,South Africa
+CUST20075,Sme,Limpopo,South Africa
+CUST20294,Corporate,Limpopo,South Africa
+CUST20268,Retail,Gauteng,South Africa
+CUST20154,Retail,Eastern Cape,South Africa
+CUST20287,Retail,KwaZulu-Natal,South Africa
+CUST20104,Retail,Western Cape,South Africa
+CUST20269,Retail,Limpopo,South Africa
+CUST20152,Retail,Eastern Cape,South Africa
+CUST20017,Sme,Free State,South Africa
+CUST20127,Sme,Western Cape,South Africa
+CUST20022,Sme,Free State,South Africa
+CUST20255,Retail,KZN,South Africa
+CUST20065,Corporate,North West,South Africa
+CUST20076,Corporate,Free State,South Africa
+CUST20190,Sme,Limpopo,South Africa
+CUST20115,Sme,Free State,South Africa
+CUST20078,Retail,KwaZulu-Natal,South Africa
+CUST20006,Retail,Western Cape,South Africa
+CUST20180,Retail,North West,South Africa
+CUST20001,Sme,KwaZulu-Natal,South Africa
+CUST20245,Retail,North West,South Africa
+CUST20121,Retail,Western Cape,South Africa
+CUST20132,Corporate,Eastern Cape,South Africa
+CUST20093,Retail,North West,South Africa
+CUST20069,Retail,Limpopo,South Africa
+CUST20217,Retail,Eastern Cape,South Africa
+CUST20019,Retail,Eastern Cape,South Africa
+CUST20153,Retail,,South Africa
+CUST20171,Retail,KwaZulu-Natal,South Africa
+CUST20016,Sme,North West,South Africa
+CUST20211,Retail,Gauteng,South Africa
+CUST20048,Sme,Western Cape,South Africa
+CUST20083,Retail,North West,South Africa
+CUST20250,Corporate,North West,South Africa
+CUST20215,Retail,Gauteng,South Africa
+CUST20094,Sme,Limpopo,South Africa
+CUST20180,Sme,Western Cape,South Africa
+CUST20283,Retail,Limpopo,South Africa
+CUST20062,Corporate,Limpopo,South Africa
+CUST20225,Retail,Gauteng ,South Africa
+CUST20026,Sme,Eastern Cape,South Africa
+CUST20296,Retail,Eastern Cape,South Africa
+CUST20137,Retail,North West,South Africa
+CUST20061,Corporate,Eastern Cape,South Africa
+CUST20064,Retail,KwaZulu-Natal,South Africa
+CUST20229,Corporate,KwaZulu-Natal,South Africa
+CUST20037,Corporate,Free State,South Africa
+CUST20077,Retail,Western Cape,South Africa
+CUST20074,Corporate,Limpopo,South Africa
+CUST20169,Sme,KwaZulu-Natal,South Africa
+CUST20079,Retail,Western Cape,South Africa
+CUST20112,Retail,North West,South Africa
+CUST20134,Retail,Gauteng,South Africa
+CUST20194,Retail,Western Cape,South Africa
+CUST20264,Retail,Eastern Cape,South Africa
+CUST20274,Sme,Western Cape,South Africa
+CUST20081,Sme,Limpopo,South Africa
+CUST20050,Retail,KwaZulu-Natal,South Africa
+CUST20279,Retail,Limpopo,South Africa
+CUST20080,Retail,North West,South Africa
+CUST20162,Retail,Limpopo,South Africa
+CUST20114,Retail,Free State,South Africa
+CUST20152,Corporate,Eastern Cape,South Africa
+CUST20089,Retail,KwaZulu-Natal,South Africa
+CUST20108,Sme,North West,South Africa
+CUST20164,Sme,KwaZulu-Natal,South Africa
+CUST20111,Corporate,Eastern Cape,South Africa
+CUST20226,Sme,Gauteng,South Africa
+CUST20096,Sme,Gauteng,South Africa
+CUST20103,Retail,Gauteng,South Africa
+CUST20121,Sme,North West,South Africa
+CUST20119,Retail,Gauteng,South Africa
+CUST20159,Retail,Free State,South Africa
+CUST20286,Sme,Free State,South Africa
+CUST20189,Retail,Free State,South Africa
+CUST20072,Retail,KwaZulu-Natal,South Africa
+CUST20119,Retail,Free State,South Africa
+CUST20053,Retail,North West,South Africa
+CUST20151,Sme,KwaZulu-Natal,South Africa
+CUST20103,Sme,Eastern Cape,South Africa
+CUST20082,Sme,Limpopo,South Africa
+CUST20207,Retail,Western Cape,South Africa
+CUST20058,Retail,KwaZulu-Natal,South Africa
+CUST20253,Retail,Western Cape,South Africa
+CUST20021,Corporate,Limpopo,South Africa
+CUST20008,Corporate,North West,South Africa
+CUST20217,Corporate,Limpopo,South Africa
+CUST20036,Sme,Free State,South Africa
+CUST20253,Sme,KwaZulu-Natal,South Africa
+CUST20155,Retail,Gauteng,South Africa
+CUST20271,Corporate,Eastern Cape,South Africa
+CUST20023,Retail,Western Cape,South Africa
+CUST20118,Retail,E. Cape,South Africa
+CUST20128,Retail,Gauteng,South Africa
+CUST20262,Corporate,North West,South Africa
+CUST20010,Retail,North West,South Africa
+CUST20297,Retail,Free State,South Africa
+CUST20150,Sme,Eastern Cape,South Africa
+CUST20202,Corporate,Western Cape,South Africa
+CUST20040,Retail,North West,South Africa
+CUST20299,Retail,KwaZulu-Natal,South Africa
+CUST20250,Corporate,Limpopo,South Africa
+CUST20200,Retail,Limpopo,South Africa
+CUST20188,Sme,Free State,South Africa
+CUST20110,Retail,KwaZulu-Natal,South Africa
+CUST20147,Retail,Gauteng,South Africa
+CUST20143,Sme,North West,South Africa
+CUST20223,Sme,KwaZulu-Natal,South Africa
+CUST20059,Corporate,Eastern Cape,South Africa
+CUST20163,Sme,Free State,South Africa
+CUST20025,Retail,North West,South Africa
+CUST20186,Retail,Limpopo,South Africa
+CUST20123,Retail,KwaZulu-Natal,South Africa
+CUST20263,Retail,,South Africa
+CUST20008,Retail,KwaZulu-Natal,South Africa
+CUST20143,Retail,Western Cape,South Africa
+CUST20070,Retail,Free State,South Africa
+CUST20197,Retail,Free State,South Africa
+CUST20009,Retail,Limpopo,South Africa
+CUST20279,Retail,Eastern Cape,South Africa
+CUST20293,Sme,Limpopo,South Africa
+CUST20100,Corporate,Western Cape,South Africa
+CUST20122,Retail,Limpopo,South Africa
+CUST20183,Corporate,Gauteng,South Africa
+CUST20202,Retail,Eastern Cape,South Africa
+CUST20138,Retail,Western Cape,South Africa
+CUST20246,Sme,Free State,South Africa
+CUST20115,Retail,Western Cape,South Africa
+CUST20185,Retail,E. Cape,South Africa
+CUST20174,Sme,Gauteng ,South Africa
+CUST20016,Retail,KwaZulu-Natal,South Africa
+CUST20177,Corporate,Free State,South Africa
+CUST20129,Retail,KwaZulu-Natal,South Africa
+CUST20037,Corporate,Western Cape,South Africa
+CUST20102,Retail,Western Cape,South Africa
+CUST20193,Sme,Limpopo,South Africa
+CUST20261,Sme,KwaZulu-Natal,South Africa
+CUST20135,Sme,Limpopo,South Africa
+CUST20023,Retail,Free State,South Africa
+CUST20219,Retail,North West,South Africa
+CUST20041,Corporate,Free State,South Africa
+CUST20025,Sme,Gauteng,South Africa
+CUST20161,Retail,Western Cape,South Africa
+CUST20216,Retail,Gauteng,South Africa
+CUST20029,Retail,Limpopo,South Africa
+CUST20024,Retail,North West,South Africa
+CUST20248,Retail,North West,South Africa
+CUST20089,Retail,North West,South Africa
+CUST20086,Sme,North West,South Africa
+CUST20084,Retail,KwaZulu-Natal,South Africa
+CUST20209,Corporate,Gauteng,South Africa
+CUST20267,Retail,KwaZulu-Natal,South Africa
+CUST20229,Retail,Limpopo,South Africa
+CUST20141,Retail,KwaZulu-Natal,South Africa
+CUST20196,Sme,Free State,South Africa
+CUST20112,Sme,Limpopo,South Africa
+CUST20091,Sme,Free State,South Africa
+CUST20232,Retail,Eastern Cape,South Africa
+CUST20279,Retail,Western Cape,South Africa
+CUST20007,Corporate,KwaZulu-Natal,South Africa
+CUST20071,Corporate,Eastern Cape,South Africa
+CUST20073,Retail,North West,South Africa
+CUST20093,Retail,KwaZulu-Natal,South Africa
+CUST20252,Sme,KwaZulu-Natal,South Africa
+CUST20233,Retail,Western Cape,South Africa
+CUST20011,Retail,North West,South Africa
+CUST20076,Sme,North West,South Africa
+CUST20017,Sme,North West,South Africa
+CUST20048,Sme,Limpopo,South Africa
+CUST20110,Corporate,North West,South Africa
+CUST20008,Retail,Free State,South Africa
+CUST20109,Corporate,Gauteng,South Africa
+CUST20058,Retail,North West,South Africa
+CUST20258,Retail,Free State,South Africa
+CUST20144,Retail,KwaZulu-Natal,South Africa
+CUST20027,Corporate,Limpopo,South Africa
+ANONYMOUS,Sme,Limpopo,South Africa
+CUST20076,Sme,Western Cape,South Africa
+CUST20084,Retail,Limpopo,South Africa
+CUST20224,Retail,Free State,South Africa
+CUST20065,Sme,Gauteng,South Africa
+CUST20224,Sme,North West,South Africa
+CUST20172,Retail,KwaZulu-Natal,South Africa
+CUST20047,Corporate,KwaZulu-Natal,South Africa
+CUST20205,Retail,Free State,South Africa
+CUST20039,Retail,Western Cape,South Africa
+CUST20099,Corporate,Limpopo,South Africa
+CUST20197,Retail,KwaZulu-Natal,South Africa
+CUST20038,Corporate,Limpopo,South Africa
+CUST20015,Retail,KwaZulu-Natal,South Africa
+CUST20019,Retail,,South Africa
+CUST20213,Corporate,KwaZulu-Natal,South Africa
+CUST20045,Retail,North West,South Africa
+CUST20285,Retail,Gauteng,South Africa
+CUST20256,Retail,Free State,South Africa
+CUST20069,Retail,North West,South Africa
+CUST20195,Sme,Western Cape,South Africa
+CUST20085,Retail,Eastern Cape,South Africa
+CUST20242,Retail,North West,South Africa
+CUST20098,Sme,KwaZulu-Natal,South Africa
+CUST20159,Retail,Western Cape,South Africa
+CUST20035,Retail,Free State,South Africa
+CUST20240,Retail,Gauteng,South Africa
+CUST20170,Retail,North West,South Africa
+CUST20054,Corporate,Western Cape,South Africa
+CUST20000,Sme,KwaZulu-Natal,South Africa
+CUST20257,Corporate,Free State,South Africa
+CUST20054,Corporate,Gauteng,South Africa
+CUST20133,Sme,Western Cape,South Africa
+CUST20095,Retail,North West,South Africa
+CUST20263,Retail,Western Cape,South Africa
+CUST20142,Retail,Limpopo,South Africa
+CUST20090,Sme,North West,South Africa
+CUST20160,Corporate,Limpopo,South Africa
+CUST20288,Retail,Limpopo,South Africa
+CUST20206,Retail,North West,South Africa
+CUST20092,Corporate,Western Cape,South Africa
+CUST20194,Corporate,Limpopo,South Africa
+CUST20166,Sme,Free State,South Africa
+CUST20258,Retail,Eastern Cape,South Africa
+CUST20217,Retail,KwaZulu-Natal,South Africa
+CUST20004,Corporate,Limpopo,South Africa
+CUST20168,Retail,North West,South Africa
+CUST20042,Retail,Gauteng,South Africa
+CUST20007,Sme,Limpopo,South Africa
+CUST20012,Retail,Free State,South Africa
+CUST20138,Retail,KwaZulu-Natal,South Africa
+CUST20246,Retail,Limpopo,South Africa
+CUST20083,Corporate,Western Cape,South Africa
+CUST20098,Sme,Western Cape,South Africa
+CUST20127,Corporate,Free State,South Africa
+CUST20273,Retail,Free State,South Africa
+CUST20202,Sme,Western Cape,South Africa
+CUST20047,Retail,Gauteng,South Africa
+CUST20179,Corporate,Free State,South Africa
+CUST20239,Retail,Eastern Cape,South Africa
+CUST20200,Corporate,KwaZulu-Natal,South Africa
+CUST20134,Corporate,Western Cape,South Africa
+CUST20027,Retail,Free State,South Africa
+CUST20290,Corporate,Free State,South Africa
+CUST20230,Corporate,North West,South Africa
+CUST20189,Sme,KwaZulu-Natal,South Africa
+CUST20078,Retail,Gauteng,South Africa
+CUST20288,Retail,North West,South Africa
+CUST20118,Corporate,KwaZulu-Natal,South Africa
+CUST20074,Sme,Free State,South Africa
+CUST20091,Retail,Western Cape,South Africa
+CUST20292,Retail,Free State,South Africa
+CUST20198,Retail,Eastern Cape,South Africa
+CUST20138,Retail,Limpopo,South Africa
+CUST20171,Retail,Eastern Cape,South Africa
+CUST20128,Retail,KwaZulu-Natal,South Africa
+CUST20088,Retail,Eastern Cape,South Africa
+CUST20220,Retail,Limpopo,South Africa
+CUST20074,Retail,Free State,South Africa
+CUST20064,Retail,Western Cape,South Africa
+CUST20212,Sme,North West,South Africa
+CUST20014,Sme,Eastern Cape,South Africa
+CUST20156,Retail,Free State,South Africa
+CUST20192,Retail,Limpopo,South Africa
+CUST20079,Retail,North West,South Africa
+CUST20187,Retail,KwaZulu-Natal,South Africa
+CUST20163,Retail,Western Cape,South Africa
+CUST20216,Retail,Eastern Cape,South Africa
+CUST20191,Sme,Gauteng,South Africa
+CUST20052,Sme,Free State,South Africa
+CUST20278,Sme,North West,South Africa
+CUST20037,Retail,KwaZulu-Natal,South Africa
+CUST20148,Retail,North West,South Africa
+CUST20119,Retail,North West,South Africa
+CUST20124,Sme,KwaZulu-Natal,South Africa
+CUST20295,Corporate,Western Cape,South Africa
+CUST20101,Retail,Gauteng,South Africa
+CUST20251,Sme,North West,South Africa
+CUST20161,Retail,North West,South Africa
+CUST20155,Retail,Limpopo,South Africa
+CUST20215,Sme,Gauteng,South Africa
+CUST20262,Retail,Eastern Cape,South Africa
+CUST20269,Corporate,Western Cape,South Africa
+CUST20201,Sme,Limpopo,South Africa
+CUST20161,Sme,Eastern Cape,South Africa
+CUST20255,Sme,Limpopo,South Africa
+CUST20101,Retail,Free State,South Africa
+CUST20102,Retail,Free State,South Africa
+CUST20221,Retail,KwaZulu-Natal,South Africa
+CUST20171,Retail,Gauteng,South Africa
+CUST20265,Retail,Western Cape,South Africa
+CUST20089,Corporate,North West,South Africa
+CUST20001,Retail,Gauteng,South Africa
+CUST20047,Corporate,Free State,South Africa
+CUST20094,Sme,Gauteng,South Africa
+CUST20261,Sme,Limpopo,South Africa
+CUST20080,Sme,Gauteng,South Africa
+CUST20205,Retail,KwaZulu-Natal,South Africa
+CUST20034,Retail,KwaZulu-Natal,South Africa
+CUST20175,Retail,Free State,South Africa
+CUST20208,Sme,KwaZulu-Natal,South Africa
+CUST20127,Retail,Free State,South Africa
+CUST20154,Retail,KwaZulu-Natal,South Africa
+CUST20066,Sme,Western Cape,South Africa
+CUST20039,Retail,Free State,South Africa
+CUST20297,Retail,North West,South Africa
+CUST20264,Corporate,KZN,South Africa
+ANONYMOUS,Sme,Free State,South Africa
+CUST20176,Sme,KwaZulu-Natal,South Africa
+CUST20013,Retail,Eastern Cape,South Africa
+CUST20000,Retail,Western Cape,South Africa
+CUST20087,Retail,North West,South Africa
+CUST20273,Sme,Gauteng,South Africa
+CUST20166,Retail,KwaZulu-Natal,South Africa
+CUST20240,Retail,Western Cape,South Africa
+CUST20046,Retail,Limpopo,South Africa
+CUST20218,Retail,Western Cape,South Africa
+CUST20184,Sme,Gauteng,South Africa
+CUST20092,Corporate,North West,South Africa
+CUST20204,Retail,KwaZulu-Natal,South Africa
+CUST20231,Retail,Eastern Cape,South Africa
+CUST20243,Sme,North West,South Africa
+CUST20266,Sme,Limpopo,South Africa
+CUST20275,Retail,Limpopo,South Africa
+CUST20262,Retail,KwaZulu-Natal,South Africa
+CUST20064,Retail,North West,South Africa
+CUST20086,Sme,Gauteng,South Africa
+CUST20057,Corporate,Limpopo,South Africa
+CUST20189,Corporate,Free State,South Africa
+CUST20182,Retail,Limpopo,South Africa
+CUST20099,Sme,Eastern Cape,South Africa
+CUST20175,Retail,KwaZulu-Natal,South Africa
+CUST20210,Sme,Free State,South Africa
+CUST20058,Sme,Gauteng,South Africa
+CUST20260,Sme,Eastern Cape,South Africa
+CUST20256,Retail,Limpopo,South Africa
+CUST20147,Sme,Western Cape,South Africa
+CUST20252,Retail,Limpopo,South Africa
+CUST20159,Retail,Limpopo,South Africa
+CUST20160,Retail,Gauteng,South Africa
+CUST20276,Sme,North West,South Africa
+CUST20055,Retail,North West,South Africa
+CUST20191,Retail,Gauteng,South Africa
+CUST20085,Retail,Gauteng,South Africa
+CUST20205,Retail,North West,South Africa
+CUST20113,Retail,Limpopo,South Africa
+CUST20043,Sme,Gauteng,South Africa
+CUST20008,Sme,Limpopo,South Africa
+CUST20061,Retail,Limpopo,South Africa
+CUST20130,Retail,Free State,South Africa
+CUST20063,Retail,North West,South Africa
+CUST20271,Retail,Limpopo,South Africa
+CUST20099,Sme,Western Cape,South Africa
+CUST20072,Sme,KwaZulu-Natal,South Africa
+CUST20158,Retail,Western Cape,South Africa
+CUST20030,Retail,Western Cape,South Africa
+CUST20214,Sme,KwaZulu-Natal,South Africa
+CUST20166,Retail,Eastern Cape,South Africa
+CUST20121,Retail,KwaZulu-Natal,South Africa
+CUST20014,Retail,Gauteng,South Africa
+CUST20020,Corporate,Western Cape,South Africa
+CUST20100,Retail,Western Cape,South Africa
+CUST20071,Sme,North West,South Africa
+CUST20106,Retail,Free State,South Africa
+CUST20270,Sme,Western Cape,South Africa
+CUST20260,Sme,KZN,South Africa
+CUST20135,Retail,North West,South Africa

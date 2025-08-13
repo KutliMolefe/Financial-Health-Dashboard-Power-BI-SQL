@@ -1,0 +1,19 @@
+{
+  "Total Revenue": 53266974.03,
+  "Total Cost": 14870016.86,
+  "Total Profit": 38396957.17,
+  "Total Budget": 24595216.29,
+  "Total Actual Spend": 30166814.1,
+  "Avg Budget Variance": 5571.597809999999,
+  "Avg Budget Variance %": 1.5313727842977862,
+  "Loss Ratio": 0.03171567604127723,
+  "Total Customers": 301,
+  "Customer Retention Rate": 0.8471760797342193,
+  "Avg Orders per Customer": 6.754152823920266,
+  "Regional Risk Exposure": 22526.463462381827,
+  "_dax_formulas": {
+    "Loss Ratio": "\n            Loss Ratio = \n            VAR total_claims = CALCULATE(SUM(fact_transactions[claim_amount]), \n                                  fact_transactions[product_category] = \"Insurance\")\n            VAR total_premiums = CALCULATE(SUM(fact_transactions[revenue]), \n                                     fact_transactions[product_category] = \"Insurance\")\n            RETURN DIVIDE(total_claims, total_premiums, 0)",
+    "Customer Retention Rate": "\n            Retention Rate = \n            VAR total_customers = DISTINCTCOUNT(fact_transactions[customer_id])\n            VAR churned_customers = CALCULATE(DISTINCTCOUNT(fact_transactions[customer_id]), \n                                       fact_transactions[churn_flag] = 1)\n            RETURN 1 - DIVIDE(churned_customers, total_customers, 0)",
+    "Budget Variance %": "\n            Budget Variance % = \n            DIVIDE(\n                SUM(fact_transactions[actual_amount]) - SUM(fact_transactions[budget_amount]),\n                SUM(fact_transactions[budget_amount]),\n                0\n            )"
+  }
+}
